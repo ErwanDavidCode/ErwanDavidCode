@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+🎓 Dual-degree engineering student (CentraleSupélec & Arts et Métiers), graduating Dec 2025.  
+🔬 Currently working on fairness-aware embeddings at Mila.  
+🤖 Interested in GenAI, LLMs, Reinforcement Learning, Computer Vision, and Algorithmic Bias.  
+📫 Excited to connect and collaborate to build something extraordinary together! 🫡
+
 <!--
 **ErwanDavidCode/ErwanDavidCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
